@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: Denken over Links
 markdown: redcarpet
 pygments: true
+paginate: 5

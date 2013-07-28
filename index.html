@@ -4,10 +4,20 @@ title: Your New Jekyll Site
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <p><b>Onder het motto "denken over links" biedt de SP Rotterdam in haar
+  nieuwe onderkomen aan de Gaffelstraat een podium voor inspirerende
+  sprekers over diverse thema’s als samenleven in de stad, actief
+  burgerschap, economie en Europa. Een maandelijkse lezingenserie waarin
+  het denken over hedendaagse sociale vraagstukken wordt geprikkeld en
+  gescherpt.</b></p>
+  {% if paginator.previous_page %}
+    <p><a class="gray" href={% if paginator.previous_page == 1 %}"/"{% else %}"{{ paginator.previous_page_path }}"{% endif %}>Latere berichten</a></p>
+  {% endif %}
+  {% for post in paginator.posts %}
+    <p class="excerpt"><a href="{{ post.url }}"><span class="gray">{{ post.date | date_to_string }} &bull;</span> {{ post.title }}</a></p>
+    <div class="excerpt">{{ post.excerpt }}</div>
+  {% endfor %}
+  {% if paginator.next_page %}
+    <p><a class="gray" href="{{ paginator.next_page_path }}">Eerdere berichten</a></p>
+  {% endif %}
 </div>
