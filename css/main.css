@@ -18,6 +18,13 @@ a {
   width: 320px;
 }
 
+#sidebar dt {
+  float: left;
+  padding-right: 10px;
+  width: 50px;
+  text-align: right;
+}
+
 #content {
   padding-top: 50px;
   padding-left: 400px;
