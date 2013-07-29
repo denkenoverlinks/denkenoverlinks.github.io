@@ -4,25 +4,25 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>www.batsov.com</title>
-  <link href="http://www.batsov.com/"/>
-  <link type="application/atom+xml" rel="self" href="http://www.batsov.com/atom.xml"/>
+  <title>Denken over Links</title>
+  <link href="http://denkenoverlinks.nl/"/>
+  <link type="application/atom+xml" rel="self" href="http://denkenoverlinks.nl/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://www.batsov.com/</id>
+  <id>http://denkenoverlinks.nl/</id>
   <author>
-    <name>Bozhidar Batsov</name>
-    <email>bozhidar.batsov@gmail.com</email>
+    <name>Denken over Links</name>
+    <email>denkenoverlinks@gmail.com</email>
   </author>
 
   {% for post in site.posts %}
   <entry>
-    <id>http://www.batsov.com{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://www.batsov.com{{ post.url }}"/>
+    <id>http://denkenoverlinks.nl{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://denkenoverlinks.nl{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>Bozhidar Batsov</name>
-      <uri>http://www.batsov.com/</uri>
+      <name>Denken over Links</name>
+      <uri>http://denkenoverlinks.nl/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
