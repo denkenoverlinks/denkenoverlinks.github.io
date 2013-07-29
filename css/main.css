@@ -7,7 +7,7 @@ body {
 
 a {
   color: #ec1e27;
-  text-decoration:none;
+  text-decoration: none;
   font-weight: bold;
 }
 
@@ -74,4 +74,5 @@ blockquote em {
 
 #acknowledge p a {
   color: inherit;
+  font: inherit;
 }
