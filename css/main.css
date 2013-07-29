@@ -63,3 +63,15 @@ blockquote p {
 blockquote em {
   font-weight: normal;
 }
+
+#acknowledge p {
+  font-size: small;
+  float: left;
+  color: #939394;
+  padding-left: 5px;
+  margin-bottom: 0px;
+}
+
+#acknowledge p a {
+  color: inherit;
+}

@@ -10,12 +10,14 @@ title: Denken over Links
   burgerschap, economie en Europa. Een maandelijkse lezingenserie waarin
   het denken over hedendaagse sociale vraagstukken wordt geprikkeld en
   gescherpt.</b></p>
+  <p>Op deze plaats treft u actuele informatie, aankondigingen, oproepen, en
+  achtergrondinformatie bij de lezingen.</p>
   {% if paginator.previous_page %}
     <p><a class="gray" href={% if paginator.previous_page == 1 %}"/"{% else %}"{{ paginator.previous_page_path }}"{% endif %}>Latere berichten</a></p>
   {% endif %}
   {% for post in paginator.posts %}
-    <p class="excerpt"><a href="{{ post.url }}"><span class="gray">{{ post.date | date_to_string }} &bull;</span> {{ post.title }}</a></p>
-    <div class="excerpt">{{ post.excerpt }}</div>
+    <p class="excerpt"><span class="gray"><b>{{ post.date | date_to_string }}</b> &bull;</span> <b>{{ post.title }}</b></p>
+    <div class="excerpt"><p>{{ post.excerpt | strip_html }} <span class="gray">&bull;</span> <a href="{{ post.url }}">lees&nbsp;verder</a></div>
   {% endfor %}
   {% if paginator.next_page %}
     <p><a class="gray" href="{{ paginator.next_page_path }}">Eerdere berichten</a></p>

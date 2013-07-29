@@ -1,19 +1,16 @@
 ---
 layout: default
 ---
+<p class="gray">
+{% if page.previous %}<a href="{{ page.previous.url }}">vorige</a>{% else %}<b>vorige</b>{% endif %}
+&bull;
+<b>{{ page.date | date_to_string }}</b>
+&bull;
+{% if page.next %}<a href="{{ page.next.url }}">volgende</a>{% else %}<b>volgende</b>{% endif %}
+&bull;
+{% if page.url != site.posts.first.url %}<a href="{{ site.posts.first.url }}">laatste</a>{% else %}<b>laatste</b>{% endif %}
+</p>
 <h2>{{ page.title }}</h2>
-<p class="gray"><b>
-{{ if page.previous }}
-<a href="{{ page.previous.url }}">vorige</a> &bull;
-{{ endif }}
-{{ page.date | date_to_string }}
-{{ if page.next.url != page.url }}
-&bull; <a href="{{ page.next.url }}">volgende</a>
-{{ endif }}
-{{ if site.posts.first.url != page.url }}
-&bull; <a href="{{ site.posts.first.url }}">laatste</a>
-{{ endif }}
-</b></p>
 
 <div class="post">
 {{ content }}
