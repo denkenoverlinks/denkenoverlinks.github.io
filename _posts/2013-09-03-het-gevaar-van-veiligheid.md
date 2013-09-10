@@ -27,7 +27,7 @@ kunnen zetten.
 
 **Dr. Gwen van Eijk**, criminoloog en stadssocioloog, verbonden aan de Universiteit van Leiden.
 
-> Er wordt vrijwel geen onderzoek meer gedaan naar ‘klassenjustitie’; we
+> Er wordt vrijwel geen onderzoek meer gedaan naar 'klassenjustitie'; we
 > beweren nu dat we in een klasseloze samenleving leven. Maar meer subtiel
 > spelen klassenverschillen nog altijd een rol in hoe we denken over bepaalde
 > groepen in de samenleving.
