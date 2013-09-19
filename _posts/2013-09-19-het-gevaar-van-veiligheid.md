@@ -9,6 +9,8 @@ Naast onze lezingencyclus is ook de herfst na een zomerstop begonnen.
 Oane introduceert het thema en de sprekers van deze vierde avond van
 Denken over Links: het gevaar van veiligheid.
 
+<iframe src="//player.vimeo.com/video/74458410" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 **Gwen van Eijk**[¹](#info_gwen), de eerste spreker, staat aan het begin
 van een nieuw onderzoek  waar ze vanavond een voorsprong op gaat nemen.
 Klassenjustitie en klassenongelijkheid worden gezien als een ouderwets
@@ -110,48 +112,36 @@ Discussie
 ---------
 
 Onze sprekers nemen plaats op de roze SP bank voor de discussie. Een
-aantal vragen en discussiepunten worden hieronder genoemd:
+aantal vragen en discussiepunten wordt hieronder genoemd:
 
   * De beeldvorming is heel belangrijk, doe moet je niet laten voor wat
     ie is, checken waarom je iets een slechte wijk noemt.
-  
   * Effectief beleid moet niet altijd voorrang krijgen op bv een verbod
     op discriminatie.
-  
   * Veiligheidheidsbeleving: door meer kennis van de complexiteit kun je
     beter nuanceren. Een voorbeeld is de buurtwachten uit Den Haag die
     het minder onveilig vinden als ze beter weten hoe moeilijk de
     problemen liggen.
-  
   * Kristische noot: Er moet genuanceerder gesproken moet worden over
     het liberale beleid; je hebt toch meetbare getallen nodig. Renee
     reageert: hij gelooft niet dat alles te objectiveren is.
-  
   * Veiligheid en criminaliteit zijn heel andere begrippen. Veiligheid
     is veel breder en kan ook zeer weinig met criminaliteit te maken
     hebben.
-  
   * Groot verschil tussen zgn witte boordencriminaliteit vs
     straatcriminaliteit – bij de bankier gaat het niet over de slechte
     jeugd en slechte moraal en wordt er vaak een zaak met een
     geldtransactie opgelost ipv gevangenisstraf.
-  
   * Marrokaanse jongeren: vragen waarom criminaliteit hoger is onder
     deze groep [algemeen: verschillen tussen culturen].
-  
-  * Groep 600 wordt besproken. VErschillend veiligheidsbeleid uit
+  * Groep 600 wordt besproken. Verschillend veiligheidsbeleid uit
     Rotterdam uit het verleden passeren de revue. Effe kappen, werkte
     dat? En waarom moet je als overheid laten zien dat je succesvol
     bent?
-  
   * City marketing, huizenbouw heeft te maken met pure vastgoedbelangen
     (LR hieraan verbonden). Spelen mensen goed in op veiligheidsvraag:
     niet meer bouwen voor de buurt maar bouwen voor de rijkere mensen (…
     bouwen voor de leegstand).  
-
-Voor degenen die het, terecht, heel jammer vonden dat ze er niet bij
-konden zijn: een kort filmpje met de highlights van de avond zullen ook
-spoedig online staan!
 
 <dl class="notes">
 <hr>
