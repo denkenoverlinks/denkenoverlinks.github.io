@@ -31,7 +31,7 @@ a {
   max-width: 500px;
 }
 
-.post p:first-child {
+.post > p:first-child {
   font-weight: bold;
 }
 
@@ -82,4 +82,20 @@ blockquote em {
 #acknowledge p a {
   color: inherit;
   font: inherit;
+}
+
+dl.notes {
+  border-top: solid 1px;
+  padding-top: 10px;
+  margin-top: 50px;
+}
+
+dl.notes dt {
+  float: left;
+  clear: left;
+}
+
+dl.notes dd {
+  margin: 0 0 0 15px;
+  padding: 0 0 0.5em 0;
 }
