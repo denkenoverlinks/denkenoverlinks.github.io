@@ -9,7 +9,7 @@ Naast onze lezingencyclus is ook de herfst na een zomerstop begonnen.
 Oane introduceert het thema en de sprekers van deze vierde avond van
 Denken over Links: het gevaar van veiligheid.
 
-<iframe src="//player.vimeo.com/video/74458410" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/74458410" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><span class="caption">Videoverslag door Peterjan van der Burgh.</span>
 
 **Gwen van Eijk**[¹](#info_gwen), de eerste spreker, staat aan het begin
 van een nieuw onderzoek  waar ze vanavond een voorsprong op gaat nemen.
@@ -142,6 +142,8 @@ aantal vragen en discussiepunten wordt hieronder genoemd:
     (LR hieraan verbonden). Spelen mensen goed in op veiligheidsvraag:
     niet meer bouwen voor de buurt maar bouwen voor de rijkere mensen (…
     bouwen voor de leegstand).  
+
+We danken de sprekers en alle aanwezigen voor een boeiende discussie!
 
 <dl class="notes">
 <hr>

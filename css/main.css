@@ -11,6 +11,10 @@ a {
   font-weight: bold;
 }
 
+li {
+  margin-top: 5px;
+}
+
 #sidebar {
   position: fixed;
   left: 50px;
@@ -69,6 +73,11 @@ blockquote p {
 
 blockquote em {
   font-weight: normal;
+}
+
+span.caption {
+  font-style: italic;
+  font-size: small;
 }
 
 #acknowledge p {
