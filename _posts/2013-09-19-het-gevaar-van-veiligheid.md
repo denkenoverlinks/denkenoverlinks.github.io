@@ -154,6 +154,7 @@ konden zijn: een kort filmpje met de highlights van de avond zullen ook
 spoedig online staan!
 
 <dl class="notes">
+<hr>
 <dt><a id="info_gwen">¹</a></dt><dd>Dr. Gwen van Eijk is criminoloog en
 stadssocioloog, verbonden aan de Universiteit van Leiden.</dd>
 <dt><a id="info_rene">²</a></dt><dd>Prof. René van Swaaningen is hoogleraar
