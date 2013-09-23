@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Het gevaar van veiligheid"
+title: "Aankondiging lezing 4: Het gevaar van veiligheid"
 date: 2013-09-03
 ---
 
