@@ -31,6 +31,10 @@ a {
   max-width: 500px;
 }
 
+img {
+  border: none;
+}
+
 .post p:first-child {
   font-weight: bold;
 }
