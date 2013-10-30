@@ -16,8 +16,13 @@ oplossingen voor nu: doel is een beter beeld te krijgen van de alternatieven
 die mogelijk zijn. Met de inzichten van deze dag hopen we het verdere debat in
 de partij te voeden.
 
+<span class="gray">
 Datum: Zondag 3 november, 10.30 – 16.00 uur  
 Locatie: SP-Rotterdam, Gaffelstraat 61B, 3014 RC, Rotterdam
+</span>
+
+**UPDATE 30/10: De discussiemiddag is uitgesteld. Zie [hier]
+(/2013/10/30/democratisering-economie.html) voor meer informatie.**
 
 #### Opzet
 
