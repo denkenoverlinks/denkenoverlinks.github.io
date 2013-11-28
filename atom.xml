@@ -11,7 +11,7 @@ layout: nil
   <id>http://denkenoverlinks.nl/</id>
   <author>
     <name>Denken over Links</name>
-    <email>denkenoverlinks@gmail.com</email>
+    <email>info@denkenoverlinks.nl</email>
   </author>
 
   {% for post in site.posts %}
