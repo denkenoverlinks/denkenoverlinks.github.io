@@ -12,7 +12,7 @@ jongvolwassenen tussen de 18 en 27 jaar.
 
 Ze hebben nog een heel leven voor zich, maar als ze niet worden geholpen dreigt
 het op allerlei fronten gigantisch mis te gaan. Voor hen zelf en de samenleving.
-Een deel heeft al veel hulp gehad, maar hoe help je geze groep nu echt vooruit
+Een deel heeft al veel hulp gehad, maar hoe help je deze groep nu echt vooruit
 met behulp van onderzochte interventies? En wat levert effectieve hulpverlening
 de samenleving op? Hoe is het eigenlijk om vanuit de praktijk met deze
 jongvolwassenen te werken?
