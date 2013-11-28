@@ -2,3 +2,4 @@ name: Denken over Links
 markdown: redcarpet
 pygments: true
 paginate: 5
+permalink: none
