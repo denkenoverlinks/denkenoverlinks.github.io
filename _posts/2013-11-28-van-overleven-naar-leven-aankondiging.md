@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aankondigin lezing 5: Van overleven naar leven!"
+title: "Aankondiging lezing 5: Van overleven naar leven?!"
 ---
 
 Kwetsbare jongvolwassenen: jongvolwassenen met een veelheid aan problemen zoals
@@ -19,14 +19,30 @@ jongvolwassenen te werken?
 
 Te gast zijn:
 
-  * Laura van Duin, socioloog en promovendus, verbonden aan de Academische
-    Werkplaats bij de Nieuwe Kans van het VU medisch centrum. Laura gaat in op
-    het belang van onderzochte interventies en het onderzoek naar kwetsbare
-    jongvolwassenen in Rotterdam.
+__Laura van Duin__, socioloog en promovendus, verbonden aan de Academische
+Werkplaats bij de Nieuwe Kans van het VU medisch centrum. Laura gaat in op
+het belang van onderzochte interventies en het onderzoek naar kwetsbare
+jongvolwassenen in Rotterdam.
+
+<div class="indent">
+De VUmc Academische Werkplaats bij De Nieuwe Kans is opgericht in oktober
+2012 door prof. Dr. Theo Doreleijers en dr. Arne Popma (onderzoekers bij
+het VUmc). Het project wordt gefinancierd door de Rotterdamse Stichting De
+Verre Bergen. ─ <a href="http://www.aw-dnk.nl">www.aw-dnk.nl</a>
+</div>
   
-  * Art-Jan van Capellen, teamleider bij Stichting De Nieuwe Kans in Rotterdam.
-    Art-Jan zal vanuit zijn ervaring vertellen over het werken met deze
-    doelgroep.
+__Art-Jan van Capellen__, teamleider bij Stichting De Nieuwe Kans in Rotterdam.
+Art-Jan zal vanuit zijn ervaring vertellen over het werken met deze
+doelgroep.
+
+<div class="indent">
+De Nieuwe Kans biedt een traject om jongeren tussen de 18 en 27 jaar
+maatschappijvaardig te maken met behulp van een slagvaardige aanpak. Het
+gaat hierbij om jongeren die met hun opleiding zijn gestopt en (nog) niet
+participeren in de maatschappij middels werk of het volgen van een
+opleiding. Ook een zorgtraject kan het gevolg zijn van deelname aan De
+nieuwe Kans. ─ <a href="http://www.denieuwekans.nl">www.denieuwekans.nl</a>
+</div>
 
 Nieuwsgierig? Kom langs en denk met ons mee op donderdag 12 december op
 Gaffelstraat 61B, 3014 RC Rotterdam. Aanvang 20:00, deur open 19:30. De toegang
