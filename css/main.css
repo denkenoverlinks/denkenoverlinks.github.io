@@ -16,7 +16,7 @@ li {
 #sidebar {
   position: fixed;
   left: 50px;
-  top: 50px;
+  top: 30px;
   width: 320px;
 }
 
@@ -28,7 +28,7 @@ li {
 }
 
 #content {
-  padding-top: 50px;
+  padding-top: 30px;
   padding-left: 400px;
   max-width: 500px;
 }

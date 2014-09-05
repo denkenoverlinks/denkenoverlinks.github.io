@@ -10,7 +10,11 @@ layout: default
 &bull;
 {% if page.url != site.posts.first.url %}<a href="{{ site.posts.first.url }}">laatste</a>{% else %}<b>laatste</b>{% endif %}
 </p>
-<h2>{{ page.title }}</h2>
+<h2>{{ page.title }}
+</h2>
+
+{% if page.english %}<p>English version <a href="{{page.english}}.html">here</a>.</p>{% endif %}
+{% if page.dutch %}<p>Nederlandse versie <a href="{{page.dutch}}.html">hier</a>.</p>{% endif %}
 
 <div class="post">
 {{ content }}
