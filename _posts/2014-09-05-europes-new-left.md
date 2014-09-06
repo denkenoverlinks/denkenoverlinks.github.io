@@ -18,7 +18,7 @@ breakthrough for the authentic Left. Despite the economic crisis, and
 disastrous austerity measures, the Left, broadly speaking, appears as yet
 unable to present a credible social alternative. But it's not all bad news:
 Greece's _Syriza_, the figurehead for Europe's radical left, became the
-leading electoral force in that country; and \emph{Podemos}, the voice of
+leading electoral force in that country; and _Podemos_, the voice of
 Spain's indignados, immediately won 8% of the vote, despite having been formed
 only four months beforehand.
 
