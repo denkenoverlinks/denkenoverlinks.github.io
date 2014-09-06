@@ -6,7 +6,7 @@ dutch: "nieuw-links-in-europa"
 
 This year's edition of 'Left Thinking' —a series designed to stimulate and
 focus progressive discussion on current social affairs— kicks off on Thursday,
-September 25. Presented by the Rotterdam branch of the Socialist Party, `Denken
+September 25. Presented by the Rotterdam branch of the Socialist Party, 'Denken
 over Links' offers a podium for inspiring and thought-provoking speakers on
 such diverse issues as living together in the city, racism and discrimination,
 and the future of the welfare state, amongst many others. The 2014/15 season
