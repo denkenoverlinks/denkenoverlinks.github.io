@@ -3,3 +3,5 @@ markdown: redcarpet
 pygments: true
 paginate: 5
 permalink: none
+domain: www.denkenoverlinks.nl
+email: info@denkenoverlinks.nl
