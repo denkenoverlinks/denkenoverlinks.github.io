@@ -3,25 +3,23 @@ layout: default
 title: Denken over Links
 ---
 
-<div id="home">
-  <p><b>Onder het motto "denken over links" biedt de SP Rotterdam in haar
-  nieuwe onderkomen aan de Gaffelstraat een podium voor inspirerende
-  sprekers over diverse thema’s als samenleven in de stad, actief
-  burgerschap, economie en Europa. Een maandelijkse lezingenserie waarin
-  het denken over hedendaagse sociale vraagstukken wordt geprikkeld en
-  gescherpt.</b></p>
-  <p>Op deze plaats treft u actuele informatie, aankondigingen, oproepen, en
-  achtergrondinformatie bij de lezingen.</p>
-  {% if paginator.previous_page %}
-    <p><a href={% if paginator.previous_page == 1 %}"/"{% else %}"{{ paginator.previous_page_path }}"{% endif %}>Latere berichten</a></p>
+<p><b>Onder het motto "denken over links" biedt de SP Rotterdam in haar
+nieuwe onderkomen aan de Gaffelstraat een podium voor inspirerende
+sprekers over diverse thema’s als samenleven in de stad, actief
+burgerschap, economie en Europa. Een maandelijkse lezingenserie waarin
+het denken over hedendaagse sociale vraagstukken wordt geprikkeld en
+gescherpt.</b></p>
+<p>Op deze plaats treft u actuele informatie, aankondigingen, oproepen, en
+achtergrondinformatie bij de lezingen.</p>
+{% if paginator.previous_page %}
+  <p><a href={% if paginator.previous_page == 1 %}"/"{% else %}"{{ paginator.previous_page_path }}"{% endif %}>Latere berichten</a></p>
+{% endif %}
+{% for post in paginator.posts %}
+  {% if post.dutch %}{% else %}
+    <p class="excerpt"><span class="gray"><b>{{ post.date | date_to_string }}</b> &bull;</span> <b>{{ post.title }}</b></p>
+    <div class="excerpt"><p>{{ post.excerpt | strip_html }} <span class="gray">&bull;</span> <a href="{{ post.url }}">lees&nbsp;verder</a></div>
   {% endif %}
-  {% for post in paginator.posts %}
-    {% if post.dutch %}{% else %}
-      <p class="excerpt"><span class="gray"><b>{{ post.date | date_to_string }}</b> &bull;</span> <b>{{ post.title }}</b></p>
-      <div class="excerpt"><p>{{ post.excerpt | strip_html }} <span class="gray">&bull;</span> <a href="{{ post.url }}">lees&nbsp;verder</a></div>
-    {% endif %}
-  {% endfor %}
-  {% if paginator.next_page %}
-    <p><a href="{{ paginator.next_page_path }}">Eerdere berichten</a></p>
-  {% endif %}
-</div>
+{% endfor %}
+{% if paginator.next_page %}
+  <p><a href="{{ paginator.next_page_path }}">Eerdere berichten</a></p>
+{% endif %}
