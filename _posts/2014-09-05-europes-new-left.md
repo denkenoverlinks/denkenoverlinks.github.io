@@ -30,7 +30,7 @@ results‥
 What are the perspectives for these relatively new political movements? How can 
 we explain their success? How do they see the relationship between on-the-streets 
 activism and parliamentary politics? These and other questions form the basis for 
-lectures from representatives of both Syriza and Podemos, to be followed by an 
+lectures from Spanish and Greek speakers, to be followed by an
 open discussion.
 
 **Due to the nature of the evening, the lectures and discussion will be in English.**

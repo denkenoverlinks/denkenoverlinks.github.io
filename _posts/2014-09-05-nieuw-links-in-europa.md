@@ -26,8 +26,8 @@ naar het verhaal achter deze bewegingen.
 
 Wat zijn de perspectieven van deze (relatief) nieuwe politieke bewegingen? Hoe verklaren 
 ze hun succes? Hoe zit het met de verhouding tussen het activisme op straat en de 
-parlementaire politiek? Deze en andere vragen komen aan de orde in twee lezingen van 
-sprekers van Podemos en Syriza en de discussie die daarop volgt.
+parlementaire politiek? Deze en andere vragen komen aan de orde in twee lezingen van
+sprekers uit Spanje en Griekenland en de discussie die daarop volgt.
 
 **Let op: het programma is —bij wijze van uitzondering— Engelstalig!**
 
