@@ -42,4 +42,4 @@ sprekers uit Spanje en Griekenland en de discussie die daarop volgt.
 **Let op: het programma is —bij wijze van uitzondering— Engelstalig!**
 
 Locatie: Gaffelstraat 61b, 20:00 uur – 22:00 uur (inloop vanaf 19:30).  
-Ook deelbaar op [facebook] (https://www.facebook.com/events/1545010272395706/https://www.facebook.com/events/1545010272395706/)!
+Ook te delen op [facebook] (https://www.facebook.com/events/1545010272395706/https://www.facebook.com/events/1545010272395706/)!
