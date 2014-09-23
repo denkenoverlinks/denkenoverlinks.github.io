@@ -33,6 +33,18 @@ activism and parliamentary politics? These and other questions form the basis fo
 lectures from Spanish and Greek speakers, to be followed by an
 open discussion.
 
+* **Dimitris Pavlopoulos** is sociologist at VU Amsterdam en involved in [Reinform]
+  (http://www.reinform.nl). Find [here]
+  (http://www.fsw.vu.nl/en/departments/sociology/staff/pavlopoulos/publications/index.asp)
+  an overview of his opinion articles on Greece.
+
+* **Alex Merlo** is Parliamentary Assistant for Podemos in the European
+  Parlement. He studied Philosophy in the Universidad Complutense de Madrid
+  and in the Université Paris I - Sorbonne, and has been a student activist
+  and member of Izquierda Anticapitalista and the NPA.
+
+
 **Due to the nature of the evening, the lectures and discussion will be in English.**
 
-Location: Gaffelstraat 61b, 20:00 – 22:00 (doors open 19:30)
+Location: Gaffelstraat 61b, 20:00 – 22:00 (doors open 19:30).  
+Also shareable on [facebook] (https://www.facebook.com/events/1545010272395706/)!

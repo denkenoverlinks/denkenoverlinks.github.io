@@ -29,6 +29,17 @@ ze hun succes? Hoe zit het met de verhouding tussen het activisme op straat en d
 parlementaire politiek? Deze en andere vragen komen aan de orde in twee lezingen van
 sprekers uit Spanje en Griekenland en de discussie die daarop volgt.
 
+* **Dimitris Pavlopoulos** is socioloog aan de VU en betrokken bij [Reinform]
+  (http://www.reinform.nl). Zie [hier]
+  (http://www.fsw.vu.nl/en/departments/sociology/staff/pavlopoulos/publications/index.asp)
+  een overzicht van zijn opiniestukken over Griekenland.
+
+* **Alex Merlo** is Parlementair Assistent voor Podemos in het Europees Parlement.
+  He studeerde filosofie aan de Universidad Complutense de Madrid
+  en aan de Université Paris I - Sorbonne, en was studentactivist
+  and lid van Izquierda Anticapitalista en NPA.
+
 **Let op: het programma is —bij wijze van uitzondering— Engelstalig!**
 
-Locatie: Gaffelstraat 61b, 20:00 uur – 22:00 uur (inloop vanaf 19:30)
+Locatie: Gaffelstraat 61b, 20:00 uur – 22:00 uur (inloop vanaf 19:30).  
+Ook deelbaar op [facebook] (https://www.facebook.com/events/1545010272395706/https://www.facebook.com/events/1545010272395706/)!
