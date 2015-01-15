@@ -11,7 +11,7 @@ eens nader onder de loep te nemen met voor- en tegenstanders.
 
 De afgelopen eeuw heeft het idee van een gegarandeerd, onconditioneel
 basisinkomen periodes gekend van grote populariteit. Er is zelfs herhaaldelijk
-mee geëxperimenteerd, echter zonder dat dit heeft geresulteeerd in enige
+mee geëxperimenteerd, echter zonder dat dit heeft geresulteerd in enige
 blijvende verandering. Wat te denken van dit idee, dat zich in deze tijd van
 voortdurende economische malaise wederom zo nadrukkelijk naar de voorgrond
 dringt?
@@ -41,3 +41,5 @@ gedachten.
 Nieuwsgierig? Kom langs en denk met ons mee op donderdag 29 januari in
 **Leeszaal Rotterdam West**, Rijnhoutplein 3, Rotterdam. Aanvang 20:00, deur
 open 19:30. De toegang is als altijd gratis. 
+
+_Dit evenement is ook te delen op [facebook] (https://www.facebook.com/events/1519349268328237/)._
