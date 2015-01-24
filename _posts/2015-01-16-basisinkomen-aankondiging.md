@@ -38,17 +38,17 @@ Deze en andere vragen leggen we voor aan
   motie</a> die de partij oproept om meer onderzoek te doen naar het
   basisinkomen.</dd>
 <dt>Michel Verbeek</dt>
-<dd>Systeembeheerder en schrijver voor het weblog Sargasso.
+<dd>Systeembeheerder, schrijvend voor het weblog Sargasso.
   Hier schreef hij onder andere een kritische onderbouwing waarom het
   basisinkomen <a href="http://sargasso.nl/basisinkomen-is-niet-zon-goed-idee/">niet zo'n goed idee is</a>.</dd>
 </dl>
 
 Het idee van een basisinkomen neemt een steeds prominentere plek in in de media
 en progressief academische kringen, waar veel verschillende interpretaties en
-meningen de ronde doen. Tijd om die eens uitgebreid tegen het licht te houden.
+meningen de ronde doen. Tijd om deze eens uitgebreid tegen het licht te houden.
 
 _Nieuwsgierig? Kom langs en denk met ons mee op donderdag 29 januari in
 [Leeszaal Rotterdam West] (http://www.leeszaalrotterdamwest.nl/), Rijnhoutplein
 3, Rotterdam. Aanvang 20:00, inloop 19:30. De toegang is als altijd gratis._
 
-_Dit evenement is ook te delen op [Facebook] (https://www.facebook.com/events/1519349268328237/)._
+_Dit evenement is tevens te delen op [Facebook] (https://www.facebook.com/events/1519349268328237/)._
