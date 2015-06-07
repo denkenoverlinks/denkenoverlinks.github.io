@@ -11,6 +11,7 @@ layout: default
 {% if page.url != site.posts.first.url %}<a href="{{ site.posts.first.url }}">laatste</a>{% else %}<b>laatste</b>{% endif %}
 </p>
 <h2>{{ page.title }}
+{% if page.subtitle %}<br><span style="font-weight: normal;">{{ page.subtitle }}</span>{% endif %}
 </h2>
 
 {% if page.english %}<p>English version <a href="{{page.english}}.html">here</a>.</p>{% endif %}

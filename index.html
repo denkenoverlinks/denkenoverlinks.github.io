@@ -16,7 +16,11 @@ achtergrondinformatie bij de lezingen.</p>
 {% endif %}
 {% for post in paginator.posts %}
   {% if post.dutch %}{% else %}
-    <p class="excerpt"><span class="gray"><b>{{ post.date | date_to_string }}</b> &bull;</span> <b>{{ post.title }}</b></p>
+    <p class="excerpt"><span class="gray"><b>{{ post.date | date_to_string }}</b> &bull;</span> <b>{{ post.title }}</b>
+    {% if post.subtitle %}
+    <span class="gray">&bull;</span>
+    {{ post.subtitle }}{% endif %}
+    </p>
     <div class="excerpt"><p>{{ post.excerpt | strip_html }} <span class="gray">&bull;</span> <a href="{{ post.url }}">lees&nbsp;verder</a></div>
   {% endif %}
 {% endfor %}

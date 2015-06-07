@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Het basisinkomen: redding van de verzorgingsstaat...
-of een neoliberale valkuil? (aankondiging)"
+title: "Het basisinkomen"
+subtitle: "Redding van de verzorgingsstaat... of een neoliberale valkuil?"
 ---
 
 Op donderdag 29 januari onderzoekt Denken over Links het onvoorwaardelijk
